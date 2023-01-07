@@ -14,7 +14,9 @@
 </div>
 
 ## :computer: Welcome!
-My name is Joonsik Andy Kim. I am a software developer who enjoys creating full-stack web applications with knowledge mainly in MERN-stack and Django-stack applications. 
+My name is Joonsik Andy Kim. I am a software developer who enjoys creating full-stack web applications.
+
+I have a passion for figuring out how to create components of a web application piece by piece, all while finding new ways to make more user-friendly interfaces. Finding new challenges is something I always love to tackle head-on in this field.
 
 ## :wrench: Skillsets
 
@@ -56,6 +58,7 @@ My name is Joonsik Andy Kim. I am a software developer who enjoys creating full-
 * ### Simon Says
     * Link: https://github.com/ultimoakim/simonsays
     * Browser game created using HTML, CSS, and JavaScript. The player can click on the colored circles to match the computer's sequence. The game will end once the player enters the sequence incorrectly.
+
 
 
 <!--
